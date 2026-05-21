@@ -1,0 +1,6 @@
+{
+  "name": "Tissue IF Blocking Guide",
+  "description": "A visual and technical guide for choosing the correct blocking buffers (primary/secondary) in tissue immunofluorescence experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
